@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\AP4_2\bin\Debug\AP4_2.pdb
+C:\Users\pc\source\repos\AP4_2\obj\Debug\AP4_2.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\AP4_2\obj\Debug\AP4_2.Properties.Resources.resources
+C:\Users\pc\source\repos\AP4_2\obj\Debug\AP4_2.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\AP4_2\obj\Debug\AP4_2.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\AP4_2\obj\Debug\AP4_2.pdb
+C:\Users\pc\source\repos\AP4_2\obj\Debug\AP4_2.Principal.resources
+C:\Users\pc\source\repos\AP4_2\obj\Debug\AP4_2.RJControls.RJTextBox.resources
+C:\Users\pc\source\repos\AP4_2\bin\Debug\AP4_2.dll.config
+C:\Users\pc\source\repos\AP4_2\bin\Debug\AP4_2.dll
+C:\Users\pc\source\repos\AP4_2\obj\Debug\AP4_2.dll

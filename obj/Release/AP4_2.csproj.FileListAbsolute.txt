@@ -1,0 +1,9 @@
+C:\Users\david\Desktop\AP4_2\obj\Release\AP4_2.RJControls.RJTextBox.resources
+C:\Users\david\Desktop\AP4_2\obj\Release\AP4_2.csproj.GenerateResource.cache
+C:\Users\david\Desktop\AP4_2\obj\Release\AP4_2.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\AP4_2\bin\Release\KenRJControls.dll.config
+C:\Users\david\Desktop\AP4_2\bin\Release\KenRJControls.dll
+C:\Users\david\Desktop\AP4_2\bin\Release\KenRJControls.pdb
+C:\Users\david\Desktop\AP4_2\obj\Release\AP4_2.Properties.Resources.resources
+C:\Users\david\Desktop\AP4_2\obj\Release\KenRJControls.dll
+C:\Users\david\Desktop\AP4_2\obj\Release\KenRJControls.pdb
